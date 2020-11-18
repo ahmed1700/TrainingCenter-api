@@ -1,0 +1,9 @@
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\bin\Debug\netcoreapp3.1\Entitites.deps.json
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\bin\Debug\netcoreapp3.1\Entitites.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\bin\Debug\netcoreapp3.1\Entitites.pdb
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.csprojAssemblyReference.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.AssemblyInfoInputs.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.AssemblyInfo.cs
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.pdb
+C:\Users\lab1 -4\source\repos\TrainingCenter\Entitites\obj\Debug\netcoreapp3.1\Entitites.csproj.CoreCompileInputs.cache

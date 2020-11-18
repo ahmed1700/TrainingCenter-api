@@ -1,0 +1,64 @@
+2020-11-18 08:56:04.7521 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 08:56:04.8121 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 08:56:04.8620 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 08:56:04.8620 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 08:56:04.8814 Info Message Template Auto Format enabled
+2020-11-18 08:56:04.9538 Info Adding target FileTarget(Name=allfile)
+2020-11-18 08:56:04.9794 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 08:56:05.0146 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 08:56:05.0271 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:54:30.7361 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:54:30.7361 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:54:30.7361 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 09:54:30.7361 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 09:54:30.7361 Info Message Template Auto Format enabled
+2020-11-18 09:54:30.7891 Info Adding target FileTarget(Name=allfile)
+2020-11-18 09:54:30.7891 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 09:54:30.8096 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 09:54:30.8156 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:54:31.0458 Info AppDomain Shutting down. Logger closing...
+2020-11-18 09:54:31.0554 Info Logger has been shut down.
+2020-11-18 09:56:22.4715 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:56:22.4715 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:56:22.4715 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 09:56:22.4715 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 09:56:22.4715 Info Message Template Auto Format enabled
+2020-11-18 09:56:22.5240 Info Adding target FileTarget(Name=allfile)
+2020-11-18 09:56:22.5240 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 09:56:22.5471 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 09:56:22.5537 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:56:22.6286 Info AppDomain Shutting down. Logger closing...
+2020-11-18 09:56:22.6286 Info Logger has been shut down.
+2020-11-18 09:57:56.7045 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:57:56.7100 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:57:56.7100 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 09:57:56.7100 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 09:57:56.7100 Info Message Template Auto Format enabled
+2020-11-18 09:57:56.7562 Info Adding target FileTarget(Name=allfile)
+2020-11-18 09:57:56.7562 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 09:57:56.7781 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 09:57:56.7865 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:57:57.5396 Info AppDomain Shutting down. Logger closing...
+2020-11-18 09:57:57.5508 Info Logger has been shut down.
+2020-11-18 09:58:55.5481 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:58:55.5518 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:58:55.5518 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 09:58:55.5518 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 09:58:55.5518 Info Message Template Auto Format enabled
+2020-11-18 09:58:55.5982 Info Adding target FileTarget(Name=allfile)
+2020-11-18 09:58:55.5982 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 09:58:55.6190 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 09:58:55.6271 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:58:56.6840 Info AppDomain Shutting down. Logger closing...
+2020-11-18 09:58:56.6943 Info Logger has been shut down.
+2020-11-18 09:59:54.0818 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:59:54.0818 Info Loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+2020-11-18 09:59:54.0818 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.6.5.1409. Product version: 1.6.5+c05b105d8cd52581a50da2af91ebacf8d4bc8f0d. GlobalAssemblyCache: False
+2020-11-18 09:59:54.0818 Info Auto loading assembly file: C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll succeeded!
+2020-11-18 09:59:54.0818 Info Message Template Auto Format enabled
+2020-11-18 09:59:54.1306 Info Adding target FileTarget(Name=allfile)
+2020-11-18 09:59:54.1306 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'nlog-all' not found for logging rule: *.
+2020-11-18 09:59:54.1542 Info Validating config: TargetNames=allfile, ConfigItems=18, FilePath=C:\Users\lab1 -4\source\repos\TrainingCenter\TrainingCenter/nlog.config
+2020-11-18 09:59:54.1606 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: allfile
+2020-11-18 09:59:57.0643 Info AppDomain Shutting down. Logger closing...
+2020-11-18 09:59:57.0643 Info Logger has been shut down.

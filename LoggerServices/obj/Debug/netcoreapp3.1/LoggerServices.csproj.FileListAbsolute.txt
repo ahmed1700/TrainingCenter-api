@@ -1,0 +1,12 @@
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\bin\Debug\netcoreapp3.1\LoggerServices.deps.json
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\bin\Debug\netcoreapp3.1\LoggerServices.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.csprojAssemblyReference.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.AssemblyInfoInputs.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.AssemblyInfo.cs
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.csproj.CopyComplete
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\bin\Debug\netcoreapp3.1\LoggerServices.pdb
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.csproj.CoreCompileInputs.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\LoggerServices\obj\Debug\netcoreapp3.1\LoggerServices.pdb

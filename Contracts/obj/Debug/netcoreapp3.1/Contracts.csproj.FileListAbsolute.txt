@@ -1,0 +1,9 @@
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\lab1 -4\source\repos\TrainingCenter\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
